@@ -118,7 +118,7 @@ export default function Portfolio() {
               <h3 className="project-title">AFRATER</h3>
               <p className="project-text">
                 A fraud detection platform for minimizing MPESA scams through alert automation,
-                con-pattern detection, and user protection.
+                con-pattern detection, and user protection. (ongoing project)
               </p>
             </div>
           </div>
@@ -136,8 +136,8 @@ export default function Portfolio() {
             <div>
               <h3 className="project-title">ReelBrief</h3>
               <p className="project-text">
-                A front-end workflow manager for creative teams — briefs, shoot tasks,
-                and collaboration tools all in one place.
+                ReelBrief is an application designed for managing creative production workflows.
+                 It helps teams stay organized without losing the creative spark. Users can create and view project briefs, assign tasks, and track progress through an interactive, user-friendly interface.
               </p>
             </div>
           </div>
