@@ -5,7 +5,7 @@ import Animation from "../components/Animation";
 
 export default function Portfolio() {
   const rotatingTexts = [
-    "Full-Stack Developer",
+    "Full-Stack Software Developer",
     "Aspiring Fraud Analyst",
     "AI Innovator",
     "Robotics Enthusiast (learning phase)",
