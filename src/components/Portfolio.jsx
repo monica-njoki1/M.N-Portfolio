@@ -8,7 +8,7 @@ export default function Portfolio() {
     "Full-Stack Developer",
     "Aspiring Fraud Analyst",
     "AI Innovator",
-    "Robotics Enthusiast",
+    "Robotics Enthusiast (learning phase)",
     "Ethical Hacking Beginner",
     "Future Tech Visionary"
   ];
