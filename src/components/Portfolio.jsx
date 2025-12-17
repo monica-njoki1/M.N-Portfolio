@@ -229,8 +229,6 @@ export default function Portfolio() {
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 text-gray-400 hover:text-cyan-400 transition-colors text-sm"
         >
-          <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-          </svg>
           GitHub
         </a>
       </section>
