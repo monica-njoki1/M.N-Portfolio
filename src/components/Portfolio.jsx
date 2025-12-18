@@ -212,7 +212,7 @@ export default function Portfolio() {
         <div className="grid md:grid-cols-3 text-center gap-10">
           <div className="skill-box">
             <h3 className="skill-title">Languages</h3>
-            <p className="skill-text">HTML • CSS • JavaScript • Python</p>
+            <p className="skill-text">HTML • CSS • JavaScript • Python • SQL</p>
           </div>
           <div className="skill-box">
             <h3 className="skill-title">Frameworks</h3>
