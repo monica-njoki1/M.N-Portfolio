@@ -119,7 +119,7 @@ export default function Portfolio() {
               <h3 className="project-title">AFRATER</h3>
               <p className="project-text">
                 A fraud detection platform for minimizing MPESA scams through alert automation,
-                con-pattern detection, and user protection. (ongoing project)
+                con-pattern detection, and user protection.
               </p>
               <a
                 href="https://afrater-web.vercel.app/"
